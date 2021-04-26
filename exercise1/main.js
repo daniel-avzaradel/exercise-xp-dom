@@ -19,7 +19,3 @@ console.log(first)
 const last = ul.lastElementChild.textContent;
 console.log(last)
 
-
-// ===== Exercise 2 : USERS ===== //
-
-
